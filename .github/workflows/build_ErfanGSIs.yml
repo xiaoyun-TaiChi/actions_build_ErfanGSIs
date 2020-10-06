@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.10.10/miui_HM5Plus_9.10.10_a2ad5bd3b7_8.1.zip
+  ROM_URL: https://bigota.d.miui.com/9.9.26/miui_HM5Plus_9.9.26_90aeca981c_8.1.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
